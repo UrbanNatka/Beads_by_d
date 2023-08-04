@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>                                                              
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Beads_by_domi</title>
+    <link rel="stylesheet" href="style.css">
+</head>                              
+<body>
+    <h1>Beads_by_domi</h1>
+ 
+<table>
+<tr>
+    <th>
+       <a href="omě.html">about me/about us</a>
+    </th><th></th> <th></th>
+<th></th><th></th><th></th><th></th><th></th>
+</a><th></th></a><th></th><th></th><th></th>
+<th>
+<a href="kontakt.html">contact</a>
+<th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th>
+ <th><a href="nakup.html">purchase</a> </th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th>
+</th><th></th><th></th><th></th><th></th><th></th>
+<th><a href="doručen.html">delivery</a></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th>
+</th><th></th><th></th><th></th><th></th><th><a href="mojekoralky.html">my beads-gallery</a></th><th></th><th></th>
+
+</tr>
+</table>
+<div class="text">
+  Welcome to my page. I am Domi, a small entrepreneur
+  who has been managing her business since she was a child. My accounts
+ and websites are managed by my parents. 
+If you want to order something from our "purchase" range, just click order!
+I have different shades of colors and also a lot of accessoriea and also various letters, smileys, flowers and seashells
+, so don't hesitate to ask me anything!If you want to ask anything, write to us on Instagram.
+You can find out more in the "About me". Love you the most!!! </div>
+<img src="images.html/MLQV9687.JPG" class="img-fluid" alt="img">
+<br>
+
+</body>
+</html>
+
+
+
+
+
+
