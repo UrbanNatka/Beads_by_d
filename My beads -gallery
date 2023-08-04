@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my beads-gallery</title>
+    <link rel="stylesheet" href="style.css">
+    <h1>My beads-gallery</h1>
+</head>
+<body>
+    <div class="textmybeads">
+        More photos are on Instagram, which you have written in the "contact" folder. We will not be angry for a follow or a like.
+        </div>
+        
+        
+        
+        <img src="IMG_E7743 - kopie.JPG" class="img-bracelets" alt="img"><img src="images.html/IMG_E7742.JPG" class="img-beaded" alt="img">
+        <img src="images.html/IMG_E7740.JPG" class="img-koral" alt="img"><img src="images.html/IMG_E7744.JPG" class="imgg" alt="img">
+        
+        <img src="images.html/IMG_E7753.JPG" class="jimg" alt="img">
+    
+        <img src="images.html/IMG_E7754.JPG" class="kimg" alt="img">
+      
+        <img src="images.html/IMG_E7755.JPG" class="limg" alt="img">¨
+      
+        <img src="images.html/IMG_E7757.JPG" class="himg" alt="img">
+        
+        
+        
+        <h1>collages</h1>
+        <img src="images.html/IMG_E7768.JPG" class="img-beads" alt="img">
+        <img src="images.html/IMG_E7769.JPG" class="img-naramek" alt="img">
+        <img src="images.html/IMG_E7770.JPG" class="img-obr" alt="img">
+        <img src="images.html/IMG_E7772.JPG" class="imag" alt="img">
+    
+</body>
